@@ -13,3 +13,10 @@ The dataset is composed of 4 folders, separating subjects by their age range :
 - Data Analysis
 - Xception Model
 - ResNet50V2 model
+
+____
+
+The **data** used in this notebook was dowloaded here : 
+https://www.kaggle.com/datasets/rashikrahmanpritom/age-recognition-dataset
+
+To use this notebook, please download the kaggle dataset to the root of this repository, rename the folder to data and leave the sub folders unchanged.
