@@ -11,6 +11,7 @@ The dataset is composed of 4 folders, separating subjects by their age range :
 
 ## Summary
 - Data Analysis
+- Sequential Conv2D model
 - Xception Model
 - ResNet50V2 model
 
